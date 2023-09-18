@@ -1,4 +1,9 @@
 <div align="center">
+    <style>
+    p {
+      background-image: url('wallpaper.jpg');
+    }
+    </style>
   <img src="avatar.jpeg" width="300" height="auto" align="left">
 </div>
 
