@@ -2,6 +2,7 @@
   <img src="avatar.jpeg" width="300" height="auto" align="left">
 </div>
 
-# claudiaguarino.github.io
+<h1 align="center">My data journey</h1>
 
-Hello, I'm Claudia Guarino, a statistics student. Welcome to my world of data, I hope you enjoy!🌍🪐
+<p align="center">Hello, I'm Claudia Guarino, a statistics student. Welcome to my world of data, I hope you enjoy!🌍🪐</p>
+
